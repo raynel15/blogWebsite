@@ -19,7 +19,7 @@ A simple and user-friendly blog website that can provide useful information abou
    git clone https://github.com/raynel15/blogWebsite.git
    ```
 2. Import the .csv files located inside the database folder to your local environment.
-3. Admin account 
+3. Admin account(Note: This is the only admin account, and can only be changed via database)
    ```sh
    admin@gmail.com
    admin
