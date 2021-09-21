@@ -1,0 +1,6 @@
+"id";"email";"password";"profile_name";"profile_description";"profile_image";"type"
+1;"raynelnavarro0615@gmail.com";"$2y$10$FiZDm/irt3njWSAYSWaJEOKTVBuaoB1qtj208H883Ho2ciS/LkPnO";"Raynel";"Hello World";"1632129933.png";"user"
+2;"test1@gmail.com";"$2y$10$N9gKA.gkiqxV5GOBsbs2/.U359u1OaNcoLZX8Y/eThMn8teh/j9jS";"Testing";"Test";"1632141069.png";"user"
+4;"admin@gmail.com";"$2y$10$Pn5ONZRHnpLjDST75xElcu8EMN4YyrhYi.sF2dHI7XBtIKHpGzBr6";"";"";"";"admin"
+5;"test2@gmail.com";"$2y$10$U5xZYaiXkJ77TuwVr1YemefFvOV5VjWh3IIy9/4Ll8sWqYJ0eJKlO";"";"";"";"user"
+6;"test3@gmail.com";"$2y$10$uWBNE522uv3FBaNpFNlovO5NhKCmfyoPW1/zPxk3zod1MzAOMLGom";"";"";"";"user"
